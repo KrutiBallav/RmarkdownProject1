@@ -19,9 +19,10 @@ When you click the **Knit** button a document will be generated that includes bo
 - **bold**  
 - *italics*  
 - [link](https://google.com)
-- # Heading 1
-- ## Heading 2
-- ### Heading 3
+
+# Heading 1    
+## Heading 2     
+### Heading 3    
 
 ```{r cars}
 summary(cars)
