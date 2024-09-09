@@ -36,7 +36,7 @@ You can also embed plots, for example:
 plot(pressure)
 ```
 
-```{r Print}
+```{r Print, echo=FALSE}
 print("Hello World")
 ```
 
