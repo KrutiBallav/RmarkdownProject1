@@ -37,7 +37,7 @@ plot(pressure)
 ```
 
 ```{r Print, echo=FALSE}
-print("Hello World")
+print("Hello World 2")
 ```
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
